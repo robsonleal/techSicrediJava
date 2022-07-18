@@ -1,4 +1,4 @@
-# Exercícios do dia 02
+# Exercícios do dia 02 - (Estruturas de decisão)
 ### Trabalhando apenas com if
 - Ex01 - Receba dois número do usuário e diga qual o maior;
 - Ex02 - Receba dois número e diga qual o maior;
@@ -8,3 +8,13 @@
 - Ex06 - Receba três valores e diga qual o maior e qual o menor;
 - Ex07 - Receba três valores e exiba em ordem decrescente;
 - Ex08 - Programa de aumento de salário;
+- Ex09 - Calculando a média e informando se o aluno foi aprovado;
+- Ex10 - Programa para auxiliar na compra do produto mais barato;
+- Ex11 - Programa que exibe uma mensagem para o usuário de acordo com uma informação inserida;
+- Ex12 - Calculando o salário líquido de um funcionário levando em consideração alguns critérios;
+- Ex13 - Programa que exibe o dia da semana, conforme um número for digitado;
+- Ex14 - Programa que calcula a média de um aluno 2.0;
+- Ex15 - Indicar se três valores inseridos podem formar um triângulo, se sim, informar o tipo;
+- Ex16 - Faça um programa que peça para informar um ano e informe se esse ano é bissexto;
+- Ex17 - Programa que calcula uma equação do 2º grau;
+- Ex18 - Programa que confirma se uma data inserida pelo usuário é valida;
