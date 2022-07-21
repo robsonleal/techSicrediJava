@@ -1,4 +1,4 @@
-package Dia06;
+package Dia06.cofrinho;
 
 public class Porquinho {
     private double saldo;

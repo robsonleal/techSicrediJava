@@ -1,4 +1,4 @@
-package Dia06m2;
+package Dia06.carro;
 
 public class Principal {
     public static void main(String[] args) {
